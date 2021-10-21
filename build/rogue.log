@@ -1,0 +1,27 @@
+﻿cl : command line warning D9025: overriding '/MD' with '/MTd'
+  addr.cc
+  aimbot.cc
+  bone.cc
+  distance.cc
+  name.cc
+  player.cc
+  BasicHelper.cpp
+  CoreUObject_functions.cpp
+  Engine_functions.cpp
+  custom.cc
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  hook.cc
+  Main.cc
+  menu.cc
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\manno\Desktop\Rogue software\hyperbone\rogue\hook\hook.cc(116): warning C4715: 'hook::init': not all control paths return a value
+  All 1734 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  rogue.vcxproj -> C:\Users\manno\Desktop\Rogue software\hyperbone\bin\rogue.dll

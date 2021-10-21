@@ -1,0 +1,132 @@
+﻿#pragma once
+
+// Name: roguecompany, Version: 425
+
+
+/*!!DEFINE!!*/
+
+/*!!HELPER_DEF!!*/
+
+/*!!HELPER_INC!!*/
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x01)
+#endif
+
+namespace CG
+{
+//---------------------------------------------------------------------------
+// Parameters
+//---------------------------------------------------------------------------
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TwoWayBlend_DDE3AA1946C4264B5A59E0B1BADCBADC
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TwoWayBlend_DDE3AA1946C4264B5A59E0B1BADCBADC_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TwoWayBlend_C466D65B43CBA420AD19559201CBC6E2
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TwoWayBlend_C466D65B43CBA420AD19559201CBC6E2_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TwoWayBlend_A9C2028F4E6ACB4C8205B0B4CF71E524
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TwoWayBlend_A9C2028F4E6ACB4C8205B0B4CF71E524_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TwoWayBlend_242462904500E0B6D930E19E4DB0C6D4
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TwoWayBlend_242462904500E0B6D930E19E4DB0C6D4_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_D9C5B0034C9C28AA4A0434BA01E27E73
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_D9C5B0034C9C28AA4A0434BA01E27E73_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_9854070744879ACC1CD53694030A7170
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_9854070744879ACC1CD53694030A7170_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_903296E34EA19E86900F3EA82F7C9767
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_903296E34EA19E86900F3EA82F7C9767_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_50A1C84E4CE59ADEEDDB11A96397537E
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_50A1C84E4CE59ADEEDDB11A96397537E_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_1E1D89A741DF2E43F644BCA5EE070A99
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_1E1D89A741DF2E43F644BCA5EE070A99_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_1D7ECD4D4AEE6A3C1A8DB19194D6362A
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_1D7ECD4D4AEE6A3C1A8DB19194D6362A_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_09A602084B5A102876EB09BB3031974C
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_TransitionResult_09A602084B5A102876EB09BB3031974C_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_BlendSpaceSkinned_5F46B98C4B1D30DBFEFD828DAC1F7AFC
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_BlendSpaceSkinned_5F46B98C4B1D30DBFEFD828DAC1F7AFC_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_BlendSpaceSkinned_577EE3674D6488AD1BA5B5BA5E8F3A50
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_BlendSpaceSkinned_577EE3674D6488AD1BA5B5BA5E8F3A50_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_BlendSpacePlayer_BB5718EA470B95B8C71CAEAD9061FD51
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_BlendSpacePlayer_BB5718EA470B95B8C71CAEAD9061FD51_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_BlendSpacePlayer_63FADFCC4369E5CA43AEB6BE83BB21A1
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_BlendSpacePlayer_63FADFCC4369E5CA43AEB6BE83BB21A1_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_AimOffsetSkinned_D6326F614B64DD28D034169EC440A648
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_AimOffsetSkinned_D6326F614B64DD28D034169EC440A648_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_AimOffsetSkinned_AD8EED6E4023B5E4F83568BEDCA26828
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_AimOffsetSkinned_AD8EED6E4023B5E4F83568BEDCA26828_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_AimOffsetSkinned_A46F832B4EAD1C4FD29A9DB467609956
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_AimOffsetSkinned_A46F832B4EAD1C4FD29A9DB467609956_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_AimOffsetSkinned_96E5A41842E6730E958EB182B8341A1C
+struct USub_Hero_ABP_Zipline_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Sub_Hero_ABP_Zipline_AnimGraphNode_AimOffsetSkinned_96E5A41842E6730E958EB182B8341A1C_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.BlueprintInitializeAnimation
+struct USub_Hero_ABP_Zipline_C_BlueprintInitializeAnimation_Params
+{
+};
+
+// Function Sub_Hero_ABP_Zipline.Sub_Hero_ABP_Zipline_C.AnimGraph
+struct USub_Hero_ABP_Zipline_C_AnimGraph_Params
+{
+	struct FPoseLink                                   bpp__AnimGraph__pf;                                        // 0x0000(0x0010)  (Parm, OutParm, NoDestructor, NativeAccessSpecifierPublic)
+};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif

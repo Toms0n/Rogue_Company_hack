@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cc" />
+    <ClCompile Include="cheat\addresses\addr.cc" />
+    <ClCompile Include="menu\menu.cc" />
+    <ClCompile Include="custom\custom.cc" />
+    <ClCompile Include="gui\imgui.cpp" />
+    <ClCompile Include="gui\imgui_demo.cpp" />
+    <ClCompile Include="gui\imgui_draw.cpp" />
+    <ClCompile Include="gui\imgui_impl_dx11.cpp" />
+    <ClCompile Include="gui\imgui_impl_win32.cpp" />
+    <ClCompile Include="gui\imgui_tables.cpp" />
+    <ClCompile Include="gui\imgui_widgets.cpp" />
+    <ClCompile Include="hook\hook.cc" />
+    <ClCompile Include="cheat\player\bone.cc" />
+    <ClCompile Include="cheat\sdk\SDK\CoreUObject_functions.cpp" />
+    <ClCompile Include="cheat\sdk\SDK\Engine_functions.cpp" />
+    <ClCompile Include="cheat\sdk\SDK\BasicHelper.cpp" />
+    <ClCompile Include="cheat\player\player.cc" />
+    <ClCompile Include="cheat\player\name.cc" />
+    <ClCompile Include="cheat\player\distance.cc" />
+    <ClCompile Include="cheat\aimbot\aimbot.cc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cheat\addresses\addr.hh" />
+    <ClInclude Include="utils\xor.hh" />
+    <ClInclude Include="utils\vec2.hh" />
+    <ClInclude Include="utils\sig_scan.hh" />
+    <ClInclude Include="menu\menu.hh" />
+    <ClInclude Include="menu\font_def.hh" />
+    <ClInclude Include="custom\custom.hh" />
+    <ClInclude Include="gui\imconfig.h" />
+    <ClInclude Include="gui\imgui.h" />
+    <ClInclude Include="gui\imgui_impl_dx11.h" />
+    <ClInclude Include="gui\imgui_impl_win32.h" />
+    <ClInclude Include="gui\imgui_internal.h" />
+    <ClInclude Include="gui\imstb_rectpack.h" />
+    <ClInclude Include="gui\imstb_textedit.h" />
+    <ClInclude Include="gui\imstb_truetype.h" />
+    <ClInclude Include="hook\hook.hh" />
+    <ClInclude Include="cheat\player\base.hh" />
+    <ClInclude Include="cheat\aimbot\base.hh" />
+  </ItemGroup>
+</Project>
